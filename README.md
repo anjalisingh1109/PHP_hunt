@@ -2,7 +2,9 @@
 Hey everyone, here we go with #HTML Form with PHP Integration
 
 This project demonstrates a simple HTML form integrated with PHP for handling form submissions.
+
 CLONE the repository ......
+
 step 1:
 Download XAMPP (or any other server)
 download it successfully 
@@ -27,4 +29,6 @@ start xampp (apache server along with my SQL)
 start mail server
 go to the browser and paste localhost/foldername(form project php)/index.html 
 
+You can see the notification too and also data will be saved at phpmyadmin --> phpprojectdatabase( DB name).
+IF something is dubious then contact me please --->> 9650708515 :)
 
