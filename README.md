@@ -20,6 +20,7 @@ Move your folder ( form project php ) ---->>> XAMPP htdocs folder.
 Step 2:
 Download and Install the Test Mail Server Tool(toolheap.com/test-mail-server-tool)
 start at port 25
+Mail sent to local server file is automatically formed and all the emails will be displayed here.
   
 Step 3: Connect a MySQL Database to PHP
 open my localhost/phpmyadmin/
