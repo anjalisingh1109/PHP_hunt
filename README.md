@@ -6,14 +6,14 @@ This project demonstrates a simple HTML form integrated with PHP for handling fo
 CLONE the repository ......
 
 step 1:
-Download XAMPP (or any other server)
+First go on the following site and download the version of XAMPP that corresponds with your device: apachefriends.org
 download it successfully 
 Then, OPEN the XAMPP file location, and click on the folder called “XAMPP htdocs folder”. This is where you will eventually be putting your code folder with your PHP code and other code files for your site.
 Move your folder ( form project php ) ---->>> XAMPP htdocs folder.
 
 
 Step 2:
-Download and Install the Test Mail Server Tool
+Download and Install the Test Mail Server Tool(toolheap.com/test-mail-server-tool)
 start at port 25
   
 Step 3: Connect a MySQL Database to PHP
