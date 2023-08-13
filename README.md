@@ -1,3 +1,7 @@
+![Screenshot (25)](https://github.com/anjalisingh1109/PHP_hunt/assets/101346710/b4aa39da-1e87-4841-bdd2-2b9d3ef14176)
+![Uploading Screenshot (24).png…]()
+![Screenshot 2023-08-13 213343](https://github.com/anjalisingh1109/PHP_hunt/assets/101346710/5c8a540b-4d3b-4fdc-b9b5-42cf4bcfd083)
+![Screenshot (26)](https://github.com/anjalisingh1109/PHP_hunt/assets/101346710/6d4d3b39-9e33-4099-a5ff-00f7dbd7e208)
 ![Screenshot (27)](https://github.com/anjalisingh1109/PHP_hunt/assets/101346710/ee65149f-1a6c-48a0-a0a6-3476f49f00e8)
 # PHP_hunt
 Hey everyone, here we go with #HTML Form with PHP Integration
